@@ -1,1 +1,1 @@
-# calculator
+# Dictionary-app
